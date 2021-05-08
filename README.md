@@ -19,7 +19,7 @@
   Cada arquivo de saída de ordenação deve ser gerado com base no método de ordenação e no elemento ordenado. Por exemplo, para o quick sort devem ser gerado 3 arquivos: qSort_ordena_obitos.csv e qSort_ordena_casos.csv, qSort_ordena_cidades.csv. Isso deve continuar para cada um dos métodos de ordenação.
 Para cada algoritmo, registre o tempo necessário para ordenar o vetor de senhas (em milissegundos).
 
-## Requisitos
+## Pré-Requisitos
   1 - Possuir uma JRE ou JDK do Java, instalada no seu SO de nível 1.8 ou superior.
 
   2 - Baixar os arquivos que serão usados pelas estruturas de dados, para a ordenação, baixa aqui.
