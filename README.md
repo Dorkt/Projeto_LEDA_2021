@@ -20,14 +20,17 @@
 Para cada algoritmo, registre o tempo necessário para ordenar o vetor de senhas (em milissegundos).
 
 ## Pré-Requisitos
-  1 - Possuir uma JRE ou JDK do Java, instalada no seu SO de nível 1.8 ou superior.
+  1 - Possuir uma JRE ou JDK do Java, instalada no seu SO(sistema operacional) de nível 1.8 ou superior.
 
   2 - Baixar os arquivos que serão usados pelas estruturas de dados, para a ordenação, baixa aqui.
 
-  3 - Baixar o arquivo executável do projeto
+  3 - Baixar o arquivo executável do projeto e adicionar ele em uma pasta que você possua a rota dele até a pasta
   
 ## Execução
   
+  1 - Abra o terminal do seu Sistema Operacional, e usando o comando "cd", entre na pasta que você adicionou o arquivo executável baixado, Exemplo do comando: cd /home/GabrielDuque
+
+  2 - No prompt de comando executar o comando(java -jar) + caminho até a pasta que está localizada o arquivo executável, no fim o comando no prompt deverá ficar parecido com esse: java -jar "caminho-aqui"
 
 
 
