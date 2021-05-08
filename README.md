@@ -32,5 +32,9 @@ Para cada algoritmo, registre o tempo necessário para ordenar o vetor de senhas
 
   2 - No prompt de comando executar o comando(java -jar) + caminho até a pasta que está localizada o arquivo executável, no fim o comando no prompt deverá ficar parecido com esse: java -jar "caminho-aqui"
 
+## Observações
 
+  1 - Os arquivos gerados, são as ordenações para cada tipo de algoritmo e tipo de caso gerado, todos serão criados dentro da mesma pasta em que o arquivo executável está
+
+  2 - Certifique-se de que as rotas estão todas bem definidas, algum erro até mesmo de barra poderá mudar o caminho que serão descritos para o programa escrever e criar os arquivos csv
 
