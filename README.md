@@ -9,6 +9,7 @@
   Gerar um arquivo formatado para ser processado na próxima fase
   Análise dos algoritmos de ordenação
   Implemente e utilize todos os algoritmos de ordenação estudados (Selection Sort, Insertion Sort, Merge Sort, Quick Sort, QuickSort com Mediana de 3, counting, e HeapSort) para ordenar os registros de acordo com os seguintes parâmetros:
+  
   *Ordenação crescente por quantidade acumulada de óbitos;
   *Ordenação crescente por quantidade acumulada de casos;
   *Ordenação crescente por ordem alfabética pelo nome das cidades.
